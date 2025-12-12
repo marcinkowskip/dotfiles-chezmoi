@@ -1,0 +1,16 @@
+{
+    "terminal.integrated.defaultProfile.windows": "Ubuntu-24.04 (WSL)",
+    "remote.SSH.remotePlatform": {
+        "10.255.0.39": "linux"
+    },
+    "vscode-neovim.useWSL": true,
+    "vscode-neovim.wslDistribution": "Ubuntu-24.04",
+    "vscode-neovim.neovimExecutablePaths.linux": "/snap/bin/nvim",
+    "extensions.experimental.affinity": {
+        "asvetliakov.vscode-neovim": 1
+    },
+    "editor.rulers": [
+        80, 100        
+    ],
+    "terminal.integrated.fontFamily": "JetBrainsMono Nerd Font Mono"
+}
