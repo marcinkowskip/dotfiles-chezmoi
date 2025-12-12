@@ -1,0 +1,7 @@
+[
+    {
+        "key": "enter",
+        "command": "search.action.focusSearchList",
+        "when": "searchViewletFocus && searchInputBoxFocus"
+    }
+]
